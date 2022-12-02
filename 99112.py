@@ -1,11 +1,11 @@
 from itertools import *
-# print("x y z w")
-# for x in 0,1:
-#     for y in 0,1:
-#         for z in 0,1:
-#             for w in 0,1:
-#                 if(((w<=z)and((not(x))<=y))<=((y==w)or(z and (not(x)))))==0:
-#                     print(x,y,z,w)
+print("x y z w")
+for x in 0,1:
+    for y in 0,1:
+        for z in 0,1:
+            for w in 0,1:
+                if(((w<=z)and((not(x))<=y))<=((y==w)or(z and (not(x)))))==0:
+                    print(x,y,z,w)
 
 
 
